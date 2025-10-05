@@ -1,0 +1,5 @@
+{
+  "name": "Lagos Ride - Bus Booking",
+  "description": "An application for booking bus tickets and reserving seats for travel within Lagos. Users can search for routes, view interactive seat maps, and receive e-tickets upon booking.",
+  "requestFramePermissions": []
+}
